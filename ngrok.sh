@@ -31,6 +31,3 @@ sleep 7
 
 # Run the second Python file
 python3 ngrok2.py
-
-# Run the second Python file
-python3 ngrok2.py
